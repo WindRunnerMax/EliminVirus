@@ -14,3 +14,5 @@
 > 我们使用抓包的方式去拿到Openid，消灭病毒的Openid是以oc6rl5开头的，在包的请求头或者返回数据中都可能有  
 > 你可以使用手机，软件Packet Capture去抓包，前提你是安卓6.0及以下，因为6.0以上APP不会认同用户自定义证书  
 > 当然你可以在电脑上用Fiddler抓包，这个功能更加强大  
+
+![show](https://github.com/WindrunnerMax/EliminVirus/blob/master/img/1.jpg)
